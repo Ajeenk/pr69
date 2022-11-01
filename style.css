@@ -1,0 +1,48 @@
+#video{
+    width: 100%;
+    height: 500px;
+    border: none;
+    margin-bottom: 150px;
+}
+.my_nav_bar
+{
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+body
+{
+    text-align: center;
+}
+.campus_maindiv
+{
+    margin-top: 100px;
+    border: 1px solid lightblue;
+}
+.campus_maindiv img 
+{
+    width: 100%;
+}
+.campus_maindiv h5,.campus_maindiv p
+{
+    margin: 20px;
+}
+#campuslife
+{
+    margin-top: 400px;
+}
+.ach_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.ach_head i
+{
+    float: right;
+}
+.ach_text span
+{
+    color: gold;
+}
